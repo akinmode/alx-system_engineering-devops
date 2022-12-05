@@ -1,0 +1,2 @@
+#!/bin/basn
+tail -n 11 /etc/passwd
