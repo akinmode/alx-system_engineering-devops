@@ -1,3 +1,2 @@
 #!/bin/bash
-#echo -e "\U0001F61F"
-echo -e "(Ôo)'
+echo "\"(Ôo)'"
