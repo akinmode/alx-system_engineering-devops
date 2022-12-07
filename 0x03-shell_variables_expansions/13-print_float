@@ -1,2 +1,2 @@
 #!/bin/bash
-bc <<< 'scale=2; \$NUM'
+echo  "scale=2; $NUM/1" | bc
